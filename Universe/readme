@@ -2,9 +2,11 @@ Mandelbrot Set Visualization
 This program generates a visualization of the Mandelbrot set using two different approaches: a simple, slow method using matplotlib.pylab and a slightly faster method using numpy.
 
 How to Use
+
 To generate the Mandelbrot set visualization using the simple method, run the following command in your terminal:
 
 Copy code
+
 python script.py
 To generate the visualization using the faster method with numpy, uncomment the relevant lines of code in the script and run the command again.
 
