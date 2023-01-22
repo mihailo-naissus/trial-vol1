@@ -29,7 +29,6 @@ plt.imshow(mat)
 # import numpy as np
 
 
-
 # import matplotlib.pylab as plt
 # atoms=[]
 # window_size = 300
@@ -49,5 +48,6 @@ plt.imshow(mat)
 #             H = d > 200
 #             if(H==True):
 #                 mat[y, x] = t
+
 
 # plt.imshow(mat)
