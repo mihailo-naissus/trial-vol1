@@ -23,8 +23,6 @@
                 mat[y][x] = t
 plt.imshow(mat)
 
-
-
 ### another version with numpy (still not fast!)
 # import numpy as np
 
@@ -48,6 +46,8 @@ plt.imshow(mat)
 #             H = d > 200
 #             if(H==True):
 #                 mat[y, x] = t
+
+
 
 
 # plt.imshow(mat)
