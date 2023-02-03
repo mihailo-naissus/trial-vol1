@@ -4,7 +4,6 @@ This program generates a visualization of the Mandelbrot set using two different
 How to Use
 
 To generate the Mandelbrot set visualization using the simple method, run the following command in your terminal:
-
 Copy code
 
 python script.py
