@@ -32,6 +32,7 @@ plt.imshow(mat)
 # window_size = 300
 # center = window_size/2
 
+
 # mat = np.zeros((window_size, window_size))
 # for y in range(window_size):
 #     for x in range(window_size):
