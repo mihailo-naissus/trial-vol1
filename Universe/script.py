@@ -22,7 +22,6 @@
              if(H==True):
                 mat[y][x] = t
 plt.imshow(mat)
-
 ### another version with numpy (still not fast!)
 # import numpy as np
 
