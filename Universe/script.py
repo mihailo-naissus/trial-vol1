@@ -1,7 +1,5 @@
 # a simple Mandelbrot in python (slow)
 # for step by step explanation watch this video: https://youtu.be/mzizK6ms-gY
-
-
  import matplotlib.pylab as plt
  window_size = 300
  center = window_size/2
